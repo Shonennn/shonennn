@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Shonennn/shonennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Welcome to Haiwei's GitHub profile! 
+
+- 🔭 I’m currently looking for Software Development Full-time/Internship opportunities.
+- 🌱 I’m currently learning `Distributed System` and `Operating System`
+- 📫 How to reach me: shonen649@outlook.com
+- 😄 Pronouns: He/Him
+
+Here are some selected repositories created or contributed by Shonennn that you might find interesting:
+
+clinicMedica
+Link: https://github.com/5300Group4/clinicMedica
+
+This is a group project that Shonennn contributed to, which is a web application designed for a medical clinic. The project was built using Laravel, Vue.js, and MySQL, and features appointment booking, patient records management, and more.
+
+RagBlog
+Link: https://github.com/Shonennn/RagBlog
+
+RagBlog is a personal blogging platform created by Shonennn using Node.js, Express, and MongoDB. It allows users to create and publish blog posts, manage comments, and more.
+
+MERN
+Link: https://github.com/Shonennn/MERN
+
+MERN is a boilerplate project that Shonennn created for building full-stack web applications using MongoDB, Express, React, and Node.js. It includes a preconfigured backend and frontend, allowing developers to quickly get started with building their own MERN stack applications.
+
+newssystem
+Link: https://github.com/Shonennn/newssystem
+
+Newssystem is a web application created by Shonennn using Laravel and Vue.js. It allows users to view and submit news articles, manage comments, and more.
+
+These repositories are just a few examples of the diverse range of projects that Shonennn has created or contributed to. Be sure to check out their full profile for more interesting repositories!
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
