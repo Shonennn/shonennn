@@ -10,7 +10,7 @@ Welcome to Haiwei's GitHub profile!
 
 Here are some selected repositories created or contributed by Shonennn that you might find interesting:
 
-clinicMedica
+Medica
 Link: https://github.com/5300Group4/clinicMedica
 
 This is a group project that Shonennn contributed to, which is a web application designed for a medical clinic. The project was built using Laravel, Vue.js, and MySQL, and features appointment booking, patient records management, and more.
@@ -25,10 +25,10 @@ Link: https://github.com/Shonennn/MERN
 
 MERN is a boilerplate project that Shonennn created for building full-stack web applications using MongoDB, Express, React, and Node.js. It includes a preconfigured backend and frontend, allowing developers to quickly get started with building their own MERN stack applications.
 
-newssystem
+News_system
 Link: https://github.com/Shonennn/newssystem
 
-Newssystem is a web application created by Shonennn using Laravel and Vue.js. It allows users to view and submit news articles, manage comments, and more.
+News_system is a web application created by Shonennn using Laravel and Vue.js. It allows users to view and submit news articles, manage comments, and more.
 
 These repositories are just a few examples of the diverse range of projects that Shonennn has created or contributed to. Be sure to check out their full profile for more interesting repositories!
 Here are some ideas to get you started:
