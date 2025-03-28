@@ -3,10 +3,8 @@
 
 Welcome to Haiwei's GitHub profile! 
 
-- 🔭 I’m currently looking for Software Development Full-time/Internship opportunities.
 - 🌱 I’m currently learning `Distributed System` and `Operating System`
 - 📫 How to reach me: shonen649@outlook.com
-- 😄 Pronouns: He/Him
 
 Here are some selected repositories created or contributed by Shonennn that you might find interesting:
 
